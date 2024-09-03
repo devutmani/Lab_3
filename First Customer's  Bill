@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main() {
+   int first_price = 35;
+   int second_price = 30;
+   printf("Total Price is:", first_price + second_price );
+return 0;
+}
